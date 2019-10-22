@@ -1,0 +1,22 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /home/maximilien/Downloads/Groups and Group Actions/scalagroups/target/scala-2.13/api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/target/scala-2.13/api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/maximilien/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dummy_3c9060af[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/Bijection.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/FiniteGroup.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/Group.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/InfiniteGroup.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/MemoizedGroup.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/cross.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/instance/dihedral.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/instance/integers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/instance/rationals.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/instance/symmetric.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/iterators.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/rationals.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

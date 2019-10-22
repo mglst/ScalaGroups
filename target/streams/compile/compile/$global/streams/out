@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/maximilien/Downloads/Groups and Group Actions/scalagroups/src/main/scala/group/MemoizedGroup.scala:46:35: constructor Subgroup in class Subgroup cannot be accessed in class MemoizedGroup[0m
+[0m[[0m[31merror[0m] [0m[0m        var subgs = immutable.Set(new Subgroup(immutable.BitSet(0), Set(Set.empty[Int]))) // Init with trivial subgroup[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
