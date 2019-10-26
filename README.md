@@ -1,5 +1,6 @@
 # ScalaGroups
-Implementation of groups in Scala
+Implementation of groups in Scala.
+
 The treasure trove of group computation for First year maths students in Oxford University
 
 ## Mathematical Groups
