@@ -46,7 +46,8 @@ class MemoizedGroup[A] (parent: FiniteGroup[A]) extends FiniteGroup[Int] { super
         var subgs = immutable.Set(new Subgroup(immutable.BitSet(0), Set(Set.empty[Int]))) // Init with trivial subgroup
         for (i <- 1 until size) {
             var new_subgs = subgs
-            for (subg <- subgs) {
+            // for (subg <- subgs) {
+            for (subg <- subgs.toArray.sortBy(_.generatingSets.iterator.next.size)) {
                 if (!subg.contains(i)) {
                     val new_subg = subg.incl(i) // because + is declared as final in immutable.Set
                     val new_subgs_it = new_subgs.iterator

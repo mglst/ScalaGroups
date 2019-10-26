@@ -8,7 +8,7 @@ Groups should be:
 - Have a nice naming scheme! Make toString be consistent / give other string things
 */
 
-/** A generic trait for immutable groups.
+/** A generic trait for countable groups.
   *
   * A group is a set equipped with a binary operation that combines any two elements to form a third element in such a way that four conditions called group axioms are satisfied, namely closure, associativity, identity and invertibility.
   * Examples of groups can be found in package [[scala.group.instance]] */
