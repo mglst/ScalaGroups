@@ -8,4 +8,5 @@ trait Ring[A] extends Iterable[A] {
     def mul(x: A, y: A): A
     def addinv(x: A): A
     def mulinv(x: A): A
+    
 }
