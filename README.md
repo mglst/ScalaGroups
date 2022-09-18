@@ -1,14 +1,13 @@
 # ScalaGroups
 Implementation of groups in Scala.
 
-The treasure trove of group computation for First year maths students in Oxford University
+This project is for having fun exploring the scala language.
+See also typelevel's [cats library](https://github.com/typelevel/cats)
 
-## Mathematical Groups
-### Explanation for the groups using group axiom
 
-1. 
-2. 
-3.
-4.
+This library has an implementation for generating / enumerating all subgroups of arbitrary finite group
 
-## We may also implement concepts of fields once we get the time.
+
+![somethign!](Screenshot%202019-08-25%20at%2016.59.03.png)
+
+![somethign!](Screenshot%202019-08-26%20at%2018.27.24.png)
